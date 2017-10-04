@@ -1,0 +1,2 @@
+# gomig
+migration query sql
